@@ -15,3 +15,5 @@
 "organizations":"https://www.metaculus.com/api2/organizations/",
 "projectstats":"https://www.metaculus.com/api2/projectstats/",
 "tezos":"https://www.metaculus.com/api2/tezos/"}
+
+
